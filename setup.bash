@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by q14035
 
 exec 2> /tmp/setup.log
 
