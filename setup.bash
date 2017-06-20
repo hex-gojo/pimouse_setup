@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written q14035ckk
 
 exec 2> /tmp/setup.log
 
